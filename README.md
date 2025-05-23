@@ -1,5 +1,12 @@
 # Sistema Laboratorio
 
+## Requisitos
+
+```sh
+- Php 7.4
+- MariaDB 10
+- Laravel 7
+```
 ## Instalación
 
 - Clonamos el repositorio
