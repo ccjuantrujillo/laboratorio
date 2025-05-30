@@ -6,6 +6,7 @@
 - Php 7.4
 - MariaDB 10
 - Laravel 7
+- Nodejs 18
 ```
 ## Instalación
 
